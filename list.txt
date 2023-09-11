@@ -13,4 +13,3 @@ players-city.plus
 seipa.app
 primeplus.store
 p3nd.com
-t3n-store.com
