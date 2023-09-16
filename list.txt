@@ -13,3 +13,4 @@ players-city.plus
 seipa.app
 primeplus.store
 p3nd.com
+goldenios.store
